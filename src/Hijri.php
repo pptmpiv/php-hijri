@@ -33,18 +33,18 @@ class Hijri extends Carbon
      * @var array
      */
     protected static $TRANS_HIJRI_MONTHS = [
-        'Muharram',
+        'Muharam',
         'Safar',
-        'Rabi\' Al-Awwal',
-        'Rabi\' Al-Akher',
-        'Jumada Al-Awwal',
-        'Jumada Al-Akherah',
-        'Rajab',
-        'Sha\'aban',
+        'Rabiul Awal',
+        'Rabiul Akhir',
+        'Jamadil Awal',
+        'Jamadil Akhir',
+        'Rejab',
+        'Syaaban',
         'Ramadan',
-        'Shawwal',
-        'Dhu Al-Qi\'dah',
-        'Dhu Al-Hijjah'
+        'Syawal',
+        'Zulkaedah',
+        'Zulhijjah'
     ];
 
     /**
